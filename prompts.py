@@ -6,7 +6,7 @@ AcceptedCmp1 - 1 if costumer accepted the offer in the 1st campaign. O otherwise
 AcceptedCmp2 - 1 if costumer accepted the offer in the 2nd campaign, 0 otherwise
 AcceptedCmp3 - 1 if costumer accepted the offer in the 3rd campaign, O otherwise
 AcceptedCmp4 - 1 if costumer accepted the offer in the 4th campaign, O otherwise
-AcceptedCmp - 1 if costumer accepted the offer in the 5th campaign, O otherwise
+AcceptedCmp5 - 1 if costumer accepted the offer in the 5th campaign, O otherwise
 Response (target) - 1 if costumer accepted the offer in the last campaign, O otherwise
 Complain - 1 if costumer complained in the last 2 years
 DtCustomer - date of customer's enrollment with the company
